@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UdeskSDKUI/UdeskSDKUI.iml" filepath="$PROJECT_DIR$/UdeskSDKUI/UdeskSDKUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udeskNewDemo/udeskNewDemo.iml" filepath="$PROJECT_DIR$/udeskNewDemo/udeskNewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udesksdk.iml" filepath="$PROJECT_DIR$/udesksdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udeskvideo/udeskvideo.iml" filepath="$PROJECT_DIR$/udeskvideo/udeskvideo.iml" />
+    </modules>
+  </component>
+</project>
